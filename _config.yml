@@ -10,7 +10,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.4022556
 color:
   saturation: 0.5645409
   brandStrength: 0
@@ -22,5 +21,6 @@ color:
     - '#FF9237'
     - '#535353'
   rhythmicContrast: 0.07469105
-layout_spectrum: 0.179914
+typography_spectrum: 0.4022556
+layout_spectrum: 0.3131042
 name: Grant Geske
