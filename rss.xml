@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Grant Geske]]></title>
+        <description><![CDATA[Grant Geske]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 07 Apr 2016 23:08:40 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Having an awesome time with my daughters. ]]></title>
+            <description><![CDATA[<article><h1>Having an awesome time with my daughters. </h1><p>Having an awesome time with my daughters.</p></article>]]></description>
+            <link>undefinedhaving-an-awesome-time-with-my-daughters/index.html</link>
+            <guid isPermaLink="false">15faaf7f-d573-41b1-ae13-43ef0ebe4a65</guid>
+            <pubDate>Thu, 07 Apr 2016 23:08:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
